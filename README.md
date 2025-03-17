@@ -1,6 +1,9 @@
-Hi, i am Tanaji Bodadkar
+# 👋 Hi, I'm Tanaji Bodadkar!  
+🚀 Full-Stack Developer | Cybersecurity Enthusiast | Designer  
 
-
+- 🔭 Working on AI Holographic TV at Aura Sync  
+- 🎯 Building TryHackMe Cybersecurity Community  
+- 🛠️ Exploring Full-Stack Dev & Cybersecurity
 
 
 
